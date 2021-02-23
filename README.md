@@ -11,7 +11,7 @@ python3 port_scanner.py
 
 It requires a target (IP or URL) and a port range to scan.
 
-##### Example_
-
+##### Example
+![plot](./example.png)
 
 Contributions are always welcome!
